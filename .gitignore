@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.local
+.streamlit/secrets.toml
+*.log
+*.png
+.DS_Store
